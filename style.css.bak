@@ -318,7 +318,7 @@ section {
   display: flex; /* Ensures proper centering for content if needed */
   align-items: center;
   justify-content: center;
-  transition: transform 0.1s ease, box-shadow 0.1s ease; /* Adds smooth animation */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Adds smooth animation */
 }
 
 .section__pic-container img {
